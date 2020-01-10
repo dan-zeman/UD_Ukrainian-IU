@@ -105,6 +105,9 @@ The data is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/license
 
 ### Changelog
 
+* 2020-01-10 **IWPT Shared Task Data**
+  * Enhanced graph: Added case information to oblique relations.
+
 * 2019-05-15 **v2.4**
   * Closed many annotaion gaps: 116K→122K.
   * Fixed annotation errors.
