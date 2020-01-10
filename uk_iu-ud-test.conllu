@@ -520,7 +520,7 @@
 75	хисту	хист	NOUN	Ncmsgn	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	71	nmod	71:nmod	SpaceAfter=No|Id=025e|Translit=chystu|LTranslit=chyst
 76	,	,	PUNCT	U	_	79	punct	77.1:punct	Id=025f|Translit=,|LTranslit=,
 77	як	як	ADV	Pr------r	PronType=Rel	79	orphan	77.1:advmod	Id=025g|Translit=jak|LTranslit=jak
-77.1	_	_	_	_	_	_	_	66:advcl	_
+77.1	дратував	дратувати	VERB	Vmpis-sm	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	_	_	66:advcl	Id=3che|LTranslit=dratuvaty|Translit=dratuvav
 78	сей	сей	DET	Pd--m-sna	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	79	det	79:det	Id=025h|Translit=sej|LTranslit=sej
 79	самозванець	самозванець	NOUN	Ncmsny	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	66	advcl	77.1:nsubj	Id=025i|Translit=samozvaneć|LTranslit=samozvaneć
 80	у	у	ADP	Spsl	Case=Loc	81	case	81:case	Id=025j|Translit=u|LTranslit=u
@@ -1423,7 +1423,7 @@
 5	відношенні	відношення	NOUN	Ncnsln	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	9	nmod	9:nmod	Id=183w|Translit=vidnošenni|LTranslit=vidnošenńа
 6	за	за	ADP	Spsi	Case=Ins	7	case	7:case	Id=183x|Translit=za|LTranslit=za
 7	УПАрмією	УПАрмія	NOUN	Ncfsin	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	9	orphan	7.1:obl	Id=183y|Translit=UPArmiěju|LTranslit=UPArmija
-7.1	_	_	_	_	_	_	_	0:root	_
+7.1	існують	існувати	VERB	Vmpip3p	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	0:root	Id=3cen|LTranslit=isnuvaty|Translit=isnujuť
 8	великі	великий	ADJ	Afp-pns	Case=Nom|Degree=Pos|Number=Plur	9	amod	9:amod	Id=183z|Translit=velyki|LTranslit=velykyj
 9	здобутки	здобуток	NOUN	Ncmpnn	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	0	root	7.1:nsubj	SpaceAfter=No|Id=1840|Translit=zdobutky|LTranslit=zdobutok
 10	.	.	PUNCT	U	_	9	punct	7.1:punct	Id=1841|Translit=.|LTranslit=.
@@ -2425,7 +2425,7 @@
 13	а	а	CCONJ	Ccs	_	18	cc	15.1:cc	Id=18vi|Translit=a|LTranslit=a
 14	їхніми	їхній	DET	Pps3--pia	Case=Ins|Number=Plur|Person=3|Poss=Yes|PronType=Prs	15	det	15:det	Id=18vj|Translit=jichnimy|LTranslit=jichnij
 15	очима	око	NOUN	Ncnpin	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	18	orphan	15.1:obl	Id=18vk|Translit=očyma|LTranslit=oko
-15.1	_	_	_	_	_	_	_	1:ccomp|7:conj	_
+15.1	дивиться	дивитися	VERB	Vmpip3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	1:ccomp|7:conj	Id=3cij|LTranslit=dyvytyśа|Translit=dyvyťśа
 16	широка	широкий	ADJ	Afpfsns	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	18	amod	18:amod	Id=18vl|Translit=šyroka|LTranslit=šyrokyj
 17	світова	світовий	ADJ	Ao-fsns	Case=Nom|Gender=Fem|Number=Sing	18	amod	18:amod	Id=18vm|Translit=svitova|LTranslit=svitovyj
 18	опінія	опінія	NOUN	Ncfsnn	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	7	conj	15.1:nsubj	SpaceAfter=No|Id=18vn|Translit=opinija|LTranslit=opinija
@@ -4019,7 +4019,7 @@
 24	кошика	кошик	NOUN	Ncmsgn	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	21	orphan	26.1:obl	Id=1g00|Translit=košyka|LTranslit=košyk
 25	в	в	ADP	Spsg	Case=Gen	26	case	26:case	Id=1g01|Translit=v|LTranslit=v
 26	когось	хтось	PRON	Pi---y-gn	Animacy=Anim|Case=Gen|PronType=Ind	24	nmod	24:nmod	SpaceAfter=No|Id=1g02|Translit=kohoś|LTranslit=chtoś
-26.1	_	_	_	_	_	_	_	18:conj	_
+26.1	потягнуть	потягнути	VERB	Vmeif3p	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	_	_	18:conj	Id=3ccr|LTranslit=poťаhnuty|Translit=poťаhnuť
 27	,	,	PUNCT	U	_	31	punct	31:punct	Id=1g03|Translit=,|LTranslit=,
 28	адже	адже	SCONJ	Css	_	31	mark	31:mark	Id=1g04|Translit=adže|LTranslit=adže
 29	хоружівське	хоружівський	ADJ	Ao-nsns	Case=Nom|Gender=Neut|Number=Sing	30	amod	30:amod	Id=1g05|Translit=choruživśke|LTranslit=choruživśkyj
@@ -4551,7 +4551,7 @@
 6	через	через	ADP	Spsa	Case=Acc	7	case	7:case	Id=1gc5|Translit=čerez|LTranslit=čerez
 7	чверть	чверть	NOUN	Ncfsan	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	10	orphan	8.1:obl	Id=1gc6|Translit=čverť|LTranslit=čverť
 8	години	година	NOUN	Ncfsgn	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	nmod	7:nmod	Id=1gc7|Translit=hodyny|LTranslit=hodyna
-8.1	_	_	_	_	_	_	_	0:root|2:conj	_
+8.1	приїхав	приїхати	VERB	Vmeis-sm	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	_	_	0:root|2:conj	Id=3cak|LTranslit=pryjichaty|Translit=pryjichav
 9	—	—	PUNCT	U	PunctType=Dash	10	punct	10:punct	Id=1gc8|Translit=—|LTranslit=—
 10	танк	танк	NOUN	Ncmsnn	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	conj	8.1:nsubj	SpaceAfter=No|Id=1gc9|Translit=tank|LTranslit=tank
 11	.	.	PUNCT	U	_	2	punct	2:punct	Id=1gca|Translit=.|LTranslit=.
@@ -5794,7 +5794,7 @@
 # sent_id = 2jr1
 # text = Комітету Верховної Ради України з питань соціальної політики, зайнятості та пенсійного забезпечення доопрацювати зазначений законопроект з урахуванням зауважень і пропозицій суб’єктів права законодавчої ініціативи та внести його на розгляд Верховної Ради України у другому читанні.
 # translit = Komitetu Verchovnoji Rady Ukrajiny z pytań sociaľnoji polityky, zajńаtosti ta pensijnoho zabezpečenńа doopraćuvaty zaznačenyj zakonoproekt z urachuvanńаm zauvažeń i propozycij suběktiv prava zakonodavčoji iniciatyvy ta vnesty joho na rozhľаd Verchovnoji Rady Ukrajiny u druhomu čytanni.
-0.1	_	_	_	_	_	_	_	0:root	_
+0.1	Постановляє	постановляти	VERB	Vmpip3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	0:root	Id=3ci0|LTranslit=postanovľаty|Translit=Postanovľаě
 1	Комітету	комітет	NOUN	Ncmsdn	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	0	root	0.1:obj|14:nsubj:x|27:nsubj:x	Id=2jr2|Translit=Komitetu|LTranslit=komitet
 2	Верховної	верховний	ADJ	Ao-fsgf	Case=Gen|Gender=Fem|Number=Sing	3	amod	3:amod	Id=2jr3|Translit=Verchovnoji|LTranslit=verchovnyj
 3	Ради	Рада	PROPN	Npfsgn	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	nmod	1:nmod	Id=2jr4|Translit=Rady|LTranslit=Rada
@@ -6403,7 +6403,7 @@
 23	для	для	ADP	Spsg	Case=Gen	25	case	25:case	Id=2k82|Translit=dľа|LTranslit=dľа
 24	багатоквартирного	багатоквартирний	ADJ	Ao-msgf	Case=Gen|Gender=Masc|Number=Sing	25	amod	25:amod	Id=2k83|Translit=bahatokvartyrnoho|LTranslit=bahatokvartyrnyj
 25	будинку	будинок	NOUN	Ncmsgn	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	conj	25.1:obl	Id=2k84|Translit=budynku|LTranslit=budynok
-25.1	_	_	_	_	_	_	_	0:root|5:conj	_
+25.1	здійснюється	здійснюватися	VERB	Vmpip3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	0:root|5:conj	Id=3ch1|LTranslit=zdijsńuvatyśа|Translit=zdijsńuěťśа
 26	-	-	PUNCT	U	PunctType=Dash	28	punct	28:punct	Id=2k85|Translit=-|LTranslit=-
 27	на	на	ADP	Spsa	Case=Acc	28	case	28:case	Id=2k86|Translit=na|LTranslit=na
 28	замовлення	замовлення	NOUN	Ncnsan	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	25	orphan	25.1:obl	Id=2k87|Translit=zamovlenńа|LTranslit=zamovlenńа
@@ -6698,7 +6698,7 @@
 # sent_id = 2kfb
 # text = Кабінету Міністрів України до 1 жовтня 2017 року підготувати і подати до Верховної Ради України тиражовані для народних депутатів України інформаційно-аналітичні матеріали з питання парламентських слухань та відповідні пропозиції до рекомендацій парламентських слухань, визначити доповідача із зазначеного питання.
 # translit = Kabinetu Ministriv Ukrajiny do 1 žovtńа 2017 roku pidhotuvaty i podaty do Verchovnoji Rady Ukrajiny tyražovani dľа narodnych deputativ Ukrajiny informacijno-analityčni materialy z pytanńа parlamentśkych sluchań ta vidpovidni propozyciji do rekomendacij parlamentśkych sluchań, vyznačyty dopovidača iz zaznačenoho pytanńа.
-0.1	_	_	_	_	_	_	_	0:root	_
+0.1	Постановляє	постановляти	VERB	Vmpip3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	0:root	Id=3ci1|LTranslit=postanovľаty|Translit=Postanovľаě
 1	Кабінету	кабінет	NOUN	Ncmsdn	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	0	root	0.1:obj|9:nsubj:x	Id=2kfc|Translit=Kabinetu|LTranslit=kabinet
 2	Міністрів	міністр	NOUN	Ncmpgy	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	1	nmod	1:nmod	Id=2kfd|Translit=Ministriv|LTranslit=ministr
 3	України	Україна	PROPN	Npfsgn	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	nmod	1:nmod	Id=2kfe|Translit=Ukrajiny|LTranslit=Ukrajina
@@ -6752,7 +6752,7 @@
 # sent_id = 2kgm
 # text = Комітету Верховної Ради України з питань сім’ї, молодіжної політики, спорту та туризму здійснити необхідні заходи щодо організаційного та методичного забезпечення проведення парламентських слухань та внести проект їх рекомендацій.
 # translit = Komitetu Verchovnoji Rady Ukrajiny z pytań simji, molodižnoji polityky, sportu ta turyzmu zdijsnyty neobchidni zachody ščodo orhanizacijnoho ta metodyčnoho zabezpečenńа provedenńа parlamentśkych sluchań ta vnesty proekt jich rekomendacij.
-0.1	_	_	_	_	_	_	_	0:root	_
+0.1	Постановляє	постановляти	VERB	Vmpip3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	0:root	Id=3ci2|LTranslit=postanovľаty|Translit=Postanovľаě
 1	Комітету	комітет	NOUN	Ncmsdn	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	0	root	0.1:obj|15:nsubj:x	Id=2kgn|Translit=Komitetu|LTranslit=komitet
 2	Верховної	верховний	ADJ	Ao-fsgf	Case=Gen|Gender=Fem|Number=Sing	3	amod	3:amod	Id=2kgo|Translit=Verchovnoji|LTranslit=verchovnyj
 3	Ради	Рада	PROPN	Npfsgn	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	nmod	1:nmod	Id=2kgp|Translit=Rady|LTranslit=Rada
@@ -6835,7 +6835,7 @@
 # sent_id = 2kik
 # text = Апарату Верховної Ради України забезпечити в установленому порядку пряму трансляцію парламентських слухань.
 # translit = Aparatu Verchovnoji Rady Ukrajiny zabezpečyty v ustanovlenomu poŕаdku pŕаmu transľаciju parlamentśkych sluchań.
-0.1	_	_	_	_	_	_	_	0:root	_
+0.1	Постановляє	постановляти	VERB	Vmpip3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	0:root	Id=3ci3|LTranslit=postanovľаty|Translit=Postanovľаě
 1	Апарату	апарат	NOUN	Ncmsdn	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	0	root	0.1:obj|5:nsubj:x	Id=2kil|Translit=Aparatu|LTranslit=aparat
 2	Верховної	верховний	ADJ	Ao-fsgf	Case=Gen|Gender=Fem|Number=Sing	3	amod	3:amod	Id=2kim|Translit=Verchovnoji|LTranslit=verchovnyj
 3	Ради	Рада	PROPN	Npfsgn	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	nmod	1:nmod	Id=2kin|Translit=Rady|LTranslit=Rada
@@ -6860,7 +6860,7 @@
 # sent_id = 2kj2
 # text = Апарату Верховної Ради України забезпечити фінансування витрат, необхідних для організації і проведення зазначених парламентських слухань, стенографування та видання матеріалів парламентських слухань Видавництвом Верховної Ради України.
 # translit = Aparatu Verchovnoji Rady Ukrajiny zabezpečyty finansuvanńа vytrat, neobchidnych dľа orhanizaciji i provedenńа zaznačenych parlamentśkych sluchań, stenohrafuvanńа ta vydanńа materialiv parlamentśkych sluchań Vydavnyctvom Verchovnoji Rady Ukrajiny.
-0.1	_	_	_	_	_	_	_	0:root	_
+0.1	Постановляє	постановляти	VERB	Vmpip3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	0:root	Id=3ci4|LTranslit=postanovľаty|Translit=Postanovľаě
 1	Апарату	апарат	NOUN	Ncmsdn	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	0	root	0.1:obj|5:nsubj:x	Id=2kj3|Translit=Aparatu|LTranslit=aparat
 2	Верховної	верховний	ADJ	Ao-fsgf	Case=Gen|Gender=Fem|Number=Sing	3	amod	3:amod	Id=2kj4|Translit=Verchovnoji|LTranslit=verchovnyj
 3	Ради	Рада	PROPN	Npfsgn	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	nmod	1:nmod	Id=2kj5|Translit=Rady|LTranslit=Rada
@@ -7144,7 +7144,7 @@
 # sent_id = 2kr3
 # text = Фонду державного майна здійснити в установленому порядку передачу в управління Міністерства культури пакета акцій, що належить державі у статутному капіталі приватного акціонерного товариства “Одеська кіностудія”.
 # translit = Fondu deržavnoho majna zdijsnyty v ustanovlenomu poŕаdku peredaču v upravlinńа Ministerstva kuľtury paketa akcij, ščo naležyť deržavi u statutnomu kapitali pryvatnoho akcionernoho tovarystva “Odeśka kinostudija”.
-0.1	_	_	_	_	_	_	_	0:root	_
+0.1	Наказує	наказувати	VERB	Vmpip3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	0:root	Id=3ci5|LTranslit=nakazuvaty|Translit=Nakazuě
 1	Фонду	фонд	NOUN	Ncmsdn	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	0	root	0.1:obj|4:nsubj:x	Id=2kr4|Translit=Fondu|LTranslit=fond
 2	державного	державний	ADJ	Ao-nsgf	Case=Gen|Gender=Neut|Number=Sing	3	amod	3:amod	Id=2kr5|Translit=deržavnoho|LTranslit=deržavnyj
 3	майна	майно	NOUN	Ncnsgn	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	nmod	1:nmod	Id=2kr6|Translit=majna|LTranslit=majno
@@ -7669,7 +7669,7 @@
 # sent_id = 2zqr
 # text = Державним установам, закладам культури, іншим організаціям, визначеним у пункті 2 цього наказу: 1) протягом 6 місяців після набрання чинності цим наказом виготовити бланки паспортів на смичковий музичний інструмент і смичок на каландрованому папері формату А5 (148 × 210 мм) щільністю 250 г/м-2 відповідно до зразків, затверджених цим наказом, із зазначенням серій, закріплених за ними згідно з додатком 1 до цього наказу, і порядкових номерів, що починаються з 000001, та поінформувати про це Міністерство культури України; 2) протягом двох тижнів після виготовлення бланків паспортів на смичковий музичний інструмент і смичок знищити невикористані бланки паспортів на смичковий музичний інструмент і смичок старих зразків та надати до Міністерства культури України копії актів про їх знищення.
 # translit = Deržavnym ustanovam, zakladam kuľtury, inšym orhanizacijam, vyznačenym u punkti 2 ćoho nakazu: 1) proťаhom 6 miśаciv pisľа nabranńа čynnosti cym nakazom vyhotovyty blanky pasportiv na smyčkovyj muzyčnyj instrument i smyčok na kalandrovanomu paperi formatu A5 (148 × 210 mm) ščiľnisťu 250 h/m-2 vidpovidno do zrazkiv, zatverdženych cym nakazom, iz zaznačenńаm serij, zakriplenych za nymy zhidno z dodatkom 1 do ćoho nakazu, i poŕаdkovych nomeriv, ščo počynajuťśа z 000001, ta poinformuvaty pro ce Ministerstvo kuľtury Ukrajiny; 2) proťаhom dvoch tyžniv pisľа vyhotovlenńа blankiv pasportiv na smyčkovyj muzyčnyj instrument i smyčok znyščyty nevykorystani blanky pasportiv na smyčkovyj muzyčnyj instrument i smyčok starych zrazkiv ta nadaty do Ministerstva kuľtury Ukrajiny kopiji aktiv pro jich znyščenńа.
-0.1	_	_	_	_	_	_	_	0:root	_
+0.1	Наказую	наказувати	VERB	Vmpip1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	0:root	Id=3chc|LTranslit=nakazuvaty|Translit=Nakazuju
 1	Державним	державний	ADJ	Ao--pdf	Case=Dat|Number=Plur	2	amod	2:amod	Id=2zqs|Translit=Deržavnym|LTranslit=deržavnyj
 2	установам	установа	NOUN	Ncfpdn	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	0	root	0.1:obj|27:nsubj:x	SpaceAfter=No|Id=2zqt|Translit=ustanovam|LTranslit=ustanova
 3	,	,	PUNCT	U	_	4	punct	4:punct	Id=2zqu|Translit=,|LTranslit=,
@@ -7814,7 +7814,7 @@
 # sent_id = 2zum
 # text = Відділу з питань переміщення культурних цінностей (Татіївська І.П.): 1) подати цей наказ на державну реєстрацію до Міністерства юстиції України; 2) довести цей наказ до відома державних установ, закладів культури, інших організацій, визначених у пункті 2 цього наказу.
 # translit = Viddilu z pytań peremiščenńа kuľturnych cinnostej (Tatijivśka I.P.): 1) podaty cej nakaz na deržavnu reěstraciju do Ministerstva justyciji Ukrajiny; 2) dovesty cej nakaz do vidoma deržavnych ustanov, zakladiv kuľtury, inšych orhanizacij, vyznačenych u punkti 2 ćoho nakazu.
-0.1	_	_	_	_	_	_	_	0:root	_
+0.1	Наказую	наказувати	VERB	Vmpip1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	0:root	Id=3ci9|LTranslit=nakazuvaty|Translit=Nakazuju
 1	Відділу	відділ	NOUN	Ncmsdn	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	0	root	0.1:obj|17:nsubj:x	Id=2zun|Translit=Viddilu|LTranslit=viddil
 2	з	з	ADP	Spsg	Case=Gen	3	case	3:case	Id=2zuo|Translit=z|LTranslit=z
 3	питань	питання	NOUN	Ncnpgn	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	1	nmod	1:nmod	Id=2zup|Translit=pytań|LTranslit=pytanńа
@@ -8969,7 +8969,7 @@
 # translit = Opisľа ńoho - nimoho Ivana.
 1	Опісля	опісля	ADP	Spsg	Case=Gen	2	case	2:case	Id=1mgu|Translit=Opisľа|LTranslit=opisľа
 2	нього	він	PRON	Pp-3m-sgn	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	orphan	2.1:obl	Id=1mgv|Translit=ńoho|LTranslit=vin
-2.1	_	_	_	_	_	_	_	0:root	_
+2.1	народила	народити	VERB	Vmeis-sf	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	_	_	0:root	Id=3cal|LTranslit=narodyty|Translit=narodyla
 3	-	-	PUNCT	U	PunctType=Dash	5	punct	5:punct	Id=1mgw|Translit=-|LTranslit=-
 4	німого	німий	ADJ	Ao-msafy	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	5	amod	5:amod	Id=1mgx|Translit=nimoho|LTranslit=nimyj
 5	Івана	Іван	PROPN	Npmsay	Animacy=Anim|Case=Acc|Gender=Masc|NameType=Giv|Number=Sing	0	root	2.1:obj	SpaceAfter=No|Id=1mgy|Translit=Ivana|LTranslit=Ivan
@@ -9033,7 +9033,7 @@
 2	вже	вже	ADV	R	_	3	orphan	4.1:advmod	Id=1mi8|Translit=vže|LTranslit=vže
 3	всіх	весь	DET	Pg---ypaa	Animacy=Anim|Case=Acc|Number=Plur|PronType=Tot	0	root	4.1:obj	Id=1mi9|Promoted=Yes|Translit=vsich|LTranslit=veś
 4	далі	далі	ADV	R	_	3	acl:adv	3:acl:adv	Id=1mia|Translit=dali|LTranslit=dali
-4.1	_	_	_	_	_	_	_	0:root	_
+4.1	народжувала	народжувати	VERB	Vmpis-sf	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	_	_	0:root	Id=3cer|LTranslit=narodžuvaty|Translit=narodžuvala
 5	-	-	PUNCT	U	PunctType=Dash	7	punct	7:punct	Id=1mib|Translit=-|LTranslit=-
 6	тільки	тільки	PART	Q	_	7	discourse	7:discourse	Id=1mic|Translit=tiľky|LTranslit=tiľky
 7	вдома	вдома	ADV	R	_	3	orphan	4.1:advmod	SpaceAfter=No|Id=1mid|Translit=vdoma|LTranslit=vdoma
@@ -9043,25 +9043,25 @@
 # text = Лариску - під горіхом, Михайла - під черешнею, Анюту - під сіном, других - на ліжку.
 # translit = Larysku - pid horichom, Mychajla - pid čerešneju, Ańutu - pid sinom, druhych - na ližku.
 1	Лариску	Лариска	PROPN	Npfsay	Animacy=Anim|Case=Acc|Gender=Fem|NameType=Giv|Number=Sing	0	root	1.1:obj	Id=1mig|Translit=Larysku|LTranslit=Laryska
-1.1	_	_	_	_	_	_	_	0:root	_
+1.1	народила	народити	VERB	Vmeis-sf	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	_	_	0:root	Id=3cam|LTranslit=narodyty|Translit=narodyla
 2	-	-	PUNCT	U	PunctType=Dash	4	punct	4:punct	Id=1mih|Translit=-|LTranslit=-
 3	під	під	ADP	Spsi	Case=Ins	4	case	4:case	Id=1mii|Translit=pid|LTranslit=pid
 4	горіхом	горіх	NOUN	Ncmsin	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	1	orphan	1.1:obl	SpaceAfter=No|Id=1mij|Translit=horichom|LTranslit=horich
 5	,	,	PUNCT	U	_	6	punct	6.1:punct	Id=1mik|Translit=,|LTranslit=,
 6	Михайла	Михайло	PROPN	Npmsay	Animacy=Anim|Case=Acc|Gender=Masc|NameType=Giv|Number=Sing	1	parataxis	6.1:obj	Id=1mil|Translit=Mychajla|LTranslit=Mychajlo
-6.1	_	_	_	_	_	_	_	1.1:parataxis	_
+6.1	народила	народити	VERB	Vmeis-sf	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	_	_	1.1:parataxis	Id=3can|LTranslit=narodyty|Translit=narodyla
 7	-	-	PUNCT	U	PunctType=Dash	9	punct	9:punct	Id=1mim|Translit=-|LTranslit=-
 8	під	під	ADP	Spsi	Case=Ins	9	case	9:case	Id=1min|Translit=pid|LTranslit=pid
 9	черешнею	черешня	NOUN	Ncfsin	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	6	orphan	6.1:obl	SpaceAfter=No|Id=1mio|Translit=čerešneju|LTranslit=čerešńа
 10	,	,	PUNCT	U	_	11	punct	11.1:punct	Id=1mip|Translit=,|LTranslit=,
 11	Анюту	Анюта	PROPN	Npfsay	Animacy=Anim|Case=Acc|Gender=Fem|NameType=Giv|Number=Sing	1	parataxis	11.1:obj	Id=1miq|Translit=Ańutu|LTranslit=Ańuta
-11.1	_	_	_	_	_	_	_	1.1:parataxis	_
+11.1	народила	народити	VERB	Vmeis-sf	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	_	_	1.1:parataxis	Id=3cao|LTranslit=narodyty|Translit=narodyla
 12	-	-	PUNCT	U	PunctType=Dash	14	punct	14:punct	Id=1mir|Translit=-|LTranslit=-
 13	під	під	ADP	Spsi	Case=Ins	14	case	14:case	Id=1mis|Translit=pid|LTranslit=pid
 14	сіном	сіно	NOUN	Ncnsin	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	11	orphan	11.1:obl	SpaceAfter=No|Id=1mit|Translit=sinom|LTranslit=sino
 15	,	,	PUNCT	U	_	16	punct	16.1:punct	Id=1miu|Translit=,|LTranslit=,
 16	других	другий	DET	Pi---ypaa	Animacy=Anim|Case=Acc|Number=Plur|PronType=Ind	1	parataxis	16.1:obj	Id=1miv|Promoted=Yes|Translit=druhych|LTranslit=druhyj
-16.1	_	_	_	_	_	_	_	1.1:parataxis	_
+16.1	народила	народити	VERB	Vmeis-sf	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	_	_	1.1:parataxis	Id=3cap|LTranslit=narodyty|Translit=narodyla
 17	-	-	PUNCT	U	PunctType=Dash	19	punct	19:punct	Id=1miw|Translit=-|LTranslit=-
 18	на	на	ADP	Spsl	Case=Loc	19	case	19:case	Id=1mix|Translit=na|LTranslit=na
 19	ліжку	ліжко	NOUN	Ncnsln	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	16	orphan	16.1:obl	SpaceAfter=No|Id=1miy|Translit=ližku|LTranslit=ližko
@@ -9944,7 +9944,7 @@
 8	.	.	PUNCT	U	_	7	punct	7:punct	SpaceAfter=No|Id=1n42|Translit=.|LTranslit=.
 9	,	,	PUNCT	U	_	12	punct	10.1:punct	Id=1n43|Translit=,|LTranslit=,
 10	сьогодні	сьогодні	ADV	R	_	12	orphan	10.1:advmod	Id=1n44|Translit=śohodni|LTranslit=śohodni
-10.1	_	_	_	_	_	_	_	3:parataxis	_
+10.1	обмежили	обмежити	VERB	Vmeis-p	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	_	_	3:parataxis	Id=3cex|LTranslit=obmežyty|Translit=obmežyly
 11	до	до	ADP	Spsg	Case=Gen	12	case	12:case	Id=1n45|Translit=do|LTranslit=do
 12	восьми	вісім	NUM	Mlc-g	Case=Gen|NumType=Card	3	parataxis	10.1:obl	SpaceAfter=No|Id=1n46|Promoted=Yes|Translit=vośmy|LTranslit=visim
 13	”	”	PUNCT	U	PunctType=Quot	3	punct	3:punct	SpaceAfter=No|Id=1n47|Translit=”|LTranslit=”
@@ -11026,7 +11026,7 @@
 8	на	на	ADP	Spsl	Case=Loc	10	case	10:case	Id=1v2h|Translit=na|LTranslit=na
 9	аварійній	аварійний	ADJ	Ao-fslf	Case=Loc|Gender=Fem|Number=Sing	10	amod	10:amod	Id=1v2i|Translit=avarijnij|LTranslit=avarijnyj
 10	ділянці	ділянка	NOUN	Ncfsln	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	12	orphan	10.1:obl	Id=1v2j|Translit=diľаnci|LTranslit=diľаnka
-10.1	_	_	_	_	_	_	_	4:parataxis	_
+10.1	працювало	працювати	VERB	Vmpis-sn	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	_	_	4:parataxis	Id=3cbr|LTranslit=praćuvaty|Translit=praćuvalo
 11	34	34	NUM	Mlc-n	Case=Nom|NumType=Card|Uninflect=Yes	12	nummod:gov	12:nummod:gov	Id=1v2k|Translit=34|LTranslit=34
 12	гірника	гірник	NOUN	Ncmsgy	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	4	parataxis	10.1:nsubj|16:nmod	SpaceAfter=No|Id=1v2l|Translit=hirnyka|LTranslit=hirnyk
 13	,	,	PUNCT	U	_	17	punct	17:punct	Id=1v2m|Translit=,|LTranslit=,
@@ -11107,7 +11107,7 @@
 13	числі	число	NOUN	Ncnsln	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	17	orphan	15.1:obl	Id=1v4f|Translit=čysli|LTranslit=čyslo
 14	від	від	ADP	Spsg	Case=Gen	15	case	15:case	Id=1v4g|Translit=vid|LTranslit=vid
 15	ДСНС	ДСНС	PROPN	Y	Abbr=Yes|Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing|Uninflect=Yes	17	orphan	15.1:obl	Id=1v4h|Translit=DSNS|LTranslit=DSNS
-15.1	_	_	_	_	_	_	_	3:parataxis	_
+15.1	залучено	залучити	VERB	Vmeo	Aspect=Perf|Mood=Ind|Person=0|VerbForm=Fin	_	_	3:parataxis	Id=3ccv|LTranslit=zalučyty|Translit=zalučeno
 16	4	4	NUM	Mlc-a	Case=Acc|NumType=Card|Uninflect=Yes	17	nummod	17:nummod	Id=1v4i|Translit=4|LTranslit=4
 17	особи	особа	NOUN	Ncfpay	Animacy=Anim|Animacy[gram]=Inan|Case=Acc|Gender=Fem|Number=Plur	3	parataxis	15.1:obj	Id=1v4j|Translit=osoby|LTranslit=osoba
 18	та	та	CCONJ	Ccs	_	20	cc	20:cc	Id=1v4k|Translit=ta|LTranslit=ta
@@ -11238,7 +11238,7 @@
 26	грн	грн	NOUN	Y	Abbr=Yes|Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur|Uninflect=Yes	25	nmod	25:nmod	SpaceAfter=No|Id=1v91|Translit=hrn|LTranslit=hrn
 27	,	,	PUNCT	U	_	28	punct	28.1:punct	Id=1v92|Translit=,|LTranslit=,
 28	внутрішні	внутрішній	ADJ	Ao--pns	Case=Nom|Number=Plur	21	parataxis	28.1:nsubj	Id=1v93|Translit=vnutrišni|LTranslit=vnutrišnij
-28.1	_	_	_	_	_	_	_	21:parataxis	_
+28.1	становили	становити	VERB	Vmpis-p	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	_	_	21:parataxis	Id=3cbs|LTranslit=stanovyty|Translit=stanovyly
 29	-	-	PUNCT	U	PunctType=Dash	33	punct	33:punct	Id=1v94|Translit=-|LTranslit=-
 30	246	246	NUM	Mlc-a	Case=Acc|NumType=Card|Uninflect=Yes	33	nummod:gov	33:nummod:gov	SpaceAfter=No|Id=1v95|Translit=246|LTranslit=246
 31	,	,	PUNCT	U	_	32	punct	32:punct	SpaceAfter=No|Id=2eoi|Translit=,|LTranslit=,
@@ -11304,7 +11304,7 @@
 26	грн	грн	NOUN	Y	Abbr=Yes|Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur|Uninflect=Yes	25	nmod	25:nmod	SpaceAfter=No|Id=1vai|Translit=hrn|LTranslit=hrn
 27	,	,	PUNCT	U	_	28	punct	28.1:punct	Id=1vaj|Translit=,|LTranslit=,
 28	видатки	видаток	NOUN	Ncmpnn	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	14	conj	28.1:nsubj	Id=1vak|Translit=vydatky|LTranslit=vydatok
-28.1	_	_	_	_	_	_	_	2:ccomp|14:conj	_
+28.1	зросли	зрости	VERB	Vmeis-p	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	_	_	2:ccomp|14:conj	Id=3cbt|LTranslit=zrosty|Translit=zrosly
 29	–	–	PUNCT	U	PunctType=Dash	34	punct	34:punct	Id=1val|Translit=–|LTranslit=–
 30	на	на	ADP	Spsa	Case=Acc	34	case	34:case	Id=1vam|Translit=na|LTranslit=na
 31	18	18	NUM	Mlc-a	Case=Acc|NumType=Card|Uninflect=Yes	34	nummod:gov	34:nummod:gov	SpaceAfter=No|Id=1van|Translit=18|LTranslit=18
@@ -11848,7 +11848,7 @@
 # translit = na stadioni žytťа: jakaś pani bihaě tempovi, jakyjś pan robyť bihovi vpravy, ďаďko v kamufľаži umovľаě vivčara ne pryědnuvatyś do nych
 1	на	на	ADP	Spsl	Case=Loc	2	case	2:case	Id=1zk3|Translit=na|LTranslit=na
 2	стадіоні	стадіон	NOUN	Ncmsln	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	3	orphan	2.1:obl	Id=1zk4|Translit=stadioni|LTranslit=stadion
-2.1	_	_	_	_	_	_	_	0:root	_
+2.1	існує	існувати	VERB	Vmpip3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	0:root	Id=3cfd|LTranslit=isnuvaty|Translit=isnuě
 3	життя	життя	NOUN	Ncnsnn	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	2.1:nsubj	SpaceAfter=No|Id=1zk5|Translit=žytťа|LTranslit=žytťа
 4	:	:	PUNCT	U	_	7	punct	7:punct	Id=1zk6|Translit=:|LTranslit=:
 5	якась	якийсь	DET	Pi--f-sna	Case=Nom|Gender=Fem|Number=Sing|PronType=Ind	6	det	6:det	Id=1zk7|Translit=jakaś|LTranslit=jakyjś
@@ -12909,7 +12909,7 @@
 16	Донецькій	донецький	ADJ	Ao-fslf	Case=Loc|Gender=Fem|Number=Sing	27	orphan	18.1:obl	Id=2nol|Translit=Donećkij|LTranslit=donećkyj
 17	і	і	CCONJ	Ccs	_	18	cc	18:cc	Id=2nom|Translit=i|LTranslit=i
 18	Дніпропетровській	дніпропетровський	ADJ	Ao-fslf	Case=Loc|Gender=Fem|Number=Sing	16	conj	16:conj|18.1:obl	Id=2non|Translit=Dnipropetrovśkij|LTranslit=dnipropetrovśkyj
-18.1	_	_	_	_	_	_	_	0:root|9:conj	_
+18.1	втратили	втратити	VERB	Vmeis-p	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	_	_	0:root|9:conj	Id=3cf8|LTranslit=vtratyty|Translit=vtratyly
 19	—	—	PUNCT	U	PunctType=Dash	27	punct	27:punct	Id=2noo|Translit=—|LTranslit=—
 20	10	10	NUM	Mlc-a	Case=Acc|NumType=Card|Uninflect=Yes	27	nummod:gov	27:nummod:gov	SpaceAfter=No|Id=2nop|Translit=10|LTranslit=10
 21	,	,	PUNCT	U	_	22	punct	22:punct	SpaceAfter=No|Id=2noq|Translit=,|LTranslit=,
@@ -12923,7 +12923,7 @@
 29	а	а	CCONJ	Ccs	_	36	cc	31.1:cc	Id=2noy|Translit=a|LTranslit=a
 30	в	в	ADP	Spsl	Case=Loc	31	case	31:case	Id=2noz|Translit=v|LTranslit=v
 31	Луганській	луганський	ADJ	Ao-fslf	Case=Loc|Gender=Fem|Number=Sing	36	orphan	31.1:obl	Id=2np0|Translit=Luhanśkij|LTranslit=luhanśkyj
-31.1	_	_	_	_	_	_	_	0:root|9:conj	_
+31.1	втратили	втратити	VERB	Vmeis-p	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	_	_	0:root|9:conj	Id=3cf9|LTranslit=vtratyty|Translit=vtratyly
 32	навіть	навіть	PART	Q	_	36	discourse	36:discourse	Id=2np1|Translit=naviť|LTranslit=naviť
 33	18	18	NUM	Mlc-i	Case=Ins|NumType=Card|Uninflect=Yes	36	nummod:gov	36:nummod:gov	SpaceAfter=No|Id=2np2|Translit=18|LTranslit=18
 34	,	,	PUNCT	U	_	35	punct	35:punct	SpaceAfter=No|Id=2np3|Translit=,|LTranslit=,
@@ -15235,7 +15235,7 @@
 10	,	,	PUNCT	U	_	12	punct	12.1:punct	Id=2way|Translit=,|LTranslit=,
 11	а	а	CCONJ	Ccs	_	12	cc	12.1:cc	Id=2waz|Translit=a|LTranslit=a
 12	обшивка	обшивка	NOUN	Ncfsnn	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	7	conj	12.1:nsubj	Id=2wb0|Translit=obšyvka|LTranslit=obšyvka
-12.1	_	_	_	_	_	_	_	0:root|7:conj	_
+12.1	виготовлялася	виготовлятися	VERB	Vmpis-sf	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	_	_	0:root|7:conj	Id=3caz|LTranslit=vyhotovľаtyśа|Translit=vyhotovľаlaśа
 13	-	-	PUNCT	U	PunctType=Dash	15	punct	15:punct	Id=2wb1|Translit=-|LTranslit=-
 14	з	з	ADP	Spsg	Case=Gen	15	case	15:case	Id=2wb2|Translit=z|LTranslit=z
 15	фанери	фанера	NOUN	Ncfsgn	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	orphan	12.1:obl	SpaceAfter=No|Id=2wb3|Translit=fanery|LTranslit=fanera
@@ -15397,7 +15397,7 @@
 37	шасі	шасі	NOUN	Ncnsan	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|Uninflect=Yes	36	obj	36:obj	SpaceAfter=No|Id=2wf0|Translit=šasi|LTranslit=šasi
 38	,	,	PUNCT	U	_	40	punct	39.1:punct	Id=2wf1|Translit=,|LTranslit=,
 39	і	і	CCONJ	Ccs	_	40	cc	39.1:cc	Id=2wf2|Translit=i|LTranslit=i
-39.1	_	_	_	_	_	_	_	27:csubj|29:conj	_
+39.1	зробити	зробити	VERB	Vmen	Aspect=Perf|VerbForm=Inf	_	_	27:csubj|29:conj	Id=3cf6|LTranslit=zrobyty|Translit=zrobyty
 40	45	45	NUM	Mlc-a	Case=Acc|NumType=Card|Uninflect=Yes	29	conj	39.1:obj	Id=2wf3|Translit=45|LTranslit=45
 41	-	-	PUNCT	U	PunctType=Dash	43	punct	43:punct	Id=2wf4|Translit=-|LTranslit=-
 42	для	для	ADP	Spsg	Case=Gen	43	case	43:case	Id=2wf5|Translit=dľа|LTranslit=dľа
